@@ -1,0 +1,53 @@
+# Dependencies and generated output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.next/
+**/.next/
+coverage/
+**/coverage/
+.turbo/
+*.tsbuildinfo
+.npm-cache/
+
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.secret
+secrets/
+private/
+personal/
+*_private.*
+*_personal.*
+
+# Database data, local connection setup, and container configuration
+*.sql
+*.dump
+*.db
+*.sqlite
+*.sqlite3
+docker-compose*
+backend/src/database/data-source.ts
+backend/src/database/migrations/
+
+# Internal planning, design, analysis, and AI handoff material
+audit/
+docs/ai-context/
+AGENTS.md
+PLAYBOOK.md
+SESSION_HANDOFF.md
+*.docx
+*.pdf
+
+# Local tooling / OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

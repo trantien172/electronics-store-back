@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="80" y1="40" x2="1100" y2="660" gradientUnits="userSpaceOnUse"><stop stop-color="#24231F"/><stop offset="1" stop-color="#45423A"/></linearGradient><linearGradient id="screen" x1="440" y1="142" x2="712" y2="538" gradientUnits="userSpaceOnUse"><stop stop-color="#FAC775"/><stop offset="1" stop-color="#EF9F27"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="966" cy="104" r="185" fill="#EF9F27" fill-opacity=".12"/><circle cx="154" cy="596" r="210" fill="#FAEEDA" fill-opacity=".06"/>
+  <path d="M216 485h768" stroke="#B4B2A9" stroke-opacity=".25" stroke-width="4"/>
+  <rect x="440" y="89" width="320" height="484" rx="42" fill="#171715" stroke="#FAC775" stroke-width="8"/><rect x="460" y="127" width="280" height="405" rx="22" fill="url(#screen)"/>
+  <path d="M500 190h200M500 218h140" stroke="#633806" stroke-opacity=".45" stroke-width="10" stroke-linecap="round"/><circle cx="600" cy="371" r="87" fill="#FAEEDA" fill-opacity=".85"/><path d="m560 372 27 27 56-61" stroke="#854F0B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m813 257 62-62 58 58-62 62" stroke="#FAC775" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><path d="m850 220 58 58" stroke="#FAC775" stroke-width="17" stroke-linecap="round"/><path d="M871 315 752 434" stroke="#FAC775" stroke-width="17" stroke-linecap="round"/><circle cx="862" cy="201" r="15" fill="#FAEEDA"/>
+  <text x="74" y="112" fill="#FAEEDA" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">FIXPRO · PHONE CARE</text>
+</svg>

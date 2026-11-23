@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="65" y1="24" x2="1082" y2="649" gradientUnits="userSpaceOnUse"><stop stop-color="#24231F"/><stop offset="1" stop-color="#49392C"/></linearGradient><linearGradient id="battery" x1="464" y1="180" x2="733" y2="508" gradientUnits="userSpaceOnUse"><stop stop-color="#FAC775"/><stop offset="1" stop-color="#EF9F27"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="177" cy="90" r="180" fill="#EF9F27" fill-opacity=".1"/><circle cx="1043" cy="600" r="205" fill="#FAEEDA" fill-opacity=".05"/>
+  <rect x="430" y="144" width="340" height="390" rx="45" fill="#171715" stroke="#FAEEDA" stroke-opacity=".8" stroke-width="8"/><path d="M535 115h130v30H535z" rx="12" fill="#FAEEDA"/>
+  <rect x="466" y="180" width="268" height="316" rx="25" fill="#5F5E5A"/><path d="M489 439V293c0-13 10-23 23-23h176c13 0 23 10 23 23v146c0 13-10 23-23 23H512c-13 0-23-10-23-23Z" fill="url(#battery)"/>
+  <path d="m588 286-39 79h43l-20 74 81-104h-47l31-49h-49Z" fill="#633806"/>
+  <path d="M848 230h116M848 280h167M848 330h125" stroke="#FAC775" stroke-width="12" stroke-linecap="round"/><circle cx="831" cy="450" r="43" fill="#EF9F27"/><path d="M831 426v29m0 15v2" stroke="#24231F" stroke-width="10" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#FAEEDA" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">FIXPRO · BATTERY CHECK</text>
+</svg>

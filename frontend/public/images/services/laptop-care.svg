@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" fill="none">
+  <defs><linearGradient id="bg" x1="95" y1="40" x2="1090" y2="630" gradientUnits="userSpaceOnUse"><stop stop-color="#24231F"/><stop offset="1" stop-color="#343C3E"/></linearGradient><linearGradient id="screen" x1="384" y1="154" x2="802" y2="441" gradientUnits="userSpaceOnUse"><stop stop-color="#FAEEDA"/><stop offset="1" stop-color="#EF9F27"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h1200v675H0z"/><circle cx="962" cy="536" r="220" fill="#EF9F27" fill-opacity=".1"/><path d="M206 527h788" stroke="#B4B2A9" stroke-opacity=".24" stroke-width="4"/>
+  <rect x="367" y="129" width="466" height="317" rx="23" fill="#171715" stroke="#FAC775" stroke-width="8"/><rect x="391" y="153" width="418" height="269" rx="11" fill="url(#screen)"/>
+  <path d="m288 491 78-46h466l80 46c12 7 8 25-6 27H294c-14-2-18-20-6-27Z" fill="#B4B2A9"/><path d="M514 472h172" stroke="#5F5E5A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M535 221c-30 34-30 83 0 117M664 221c30 34 30 83 0 117M567 254c-13 15-13 37 0 52M632 254c13 15 13 37 0 52" stroke="#854F0B" stroke-width="12" stroke-linecap="round"/><circle cx="600" cy="281" r="13" fill="#633806"/>
+  <path d="M892 238c37 26 58 67 58 111M916 193c53 37 85 96 85 158" stroke="#FAC775" stroke-width="12" stroke-linecap="round"/><text x="74" y="112" fill="#FAEEDA" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="5">FIXPRO · LAPTOP CARE</text>
+</svg>
